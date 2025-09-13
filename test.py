@@ -1,1 +1,1 @@
-print ("Hello DevOps...{}")
+prin("Hello DevOps...{}")
